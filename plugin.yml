@@ -1,0 +1,12 @@
+name: UltraTonda
+version: 1.0
+main: org.HybridCraft.UltraTonda.Main
+author: Ritonda66
+website: http://hybridcraft.org
+commands:
+     kit:
+          description: Gives the player a kit.
+          usage: /<command> <kit>
+     score:
+          description: Shows you your score.
+          usage: /<command>
